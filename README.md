@@ -1,4 +1,4 @@
-# Exploratory Data Analysis using 
+# Exploratory Data Analysis  
 # About Dataset
 This dataset contains information on car accidents that occurred in the contiguous United States from February 2016 to December 2021. The data was collected from multiple APIs that provide streaming traffic incident data from a variety of sources, including transportation departments, law enforcement agencies, traffic cameras, and traffic sensors.
 
