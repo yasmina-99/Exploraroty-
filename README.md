@@ -31,7 +31,7 @@ plt.annotate('workday start',xy=(6,0),xytext=(3,25000),arrowprops= dict(facecolo
 plt.annotate('workday end',xy=(16,0),xytext=(18,25000),arrowprops=dict(facecolor='black', shrink=0.25), fontsize=11)
 
 
-plt.show() ```
+plt.show()```
 
 ![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/yasmina-99/Exploratory_data_analysis/blob/branch/number_accidents.png))
 
