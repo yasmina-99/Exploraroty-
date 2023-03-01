@@ -8,7 +8,7 @@ Currently, the dataset includes approximately *2.8 million accident records*. Th
 # Identify the hours with the highest number of accidents
 
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/yasmina-99/Exploratory_data_analysis/blob/branch/number_accidents.png))
+![alt text](((https://github.com/yasmina-99/Exploratory_data_analysis/blob/branch/number_accidents.png](https://github.com/yasmina-99/Exploratory_data_analysis/blob/branch/number_accidents.png)))
 
 # Acknowledgements
 
