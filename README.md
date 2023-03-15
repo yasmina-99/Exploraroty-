@@ -8,6 +8,7 @@ This dataset contains information on car accidents that occurred in the contiguo
 
 Currently, the dataset includes approximately *2.8 million accident records*. This dataset can be used for a wide range of applications, including real-time accident prediction, studying accident hotspots, casualty analysis, and extracting cause-and-effect rules to predict car accidents. The most recent release of the dataset can also be used to study the impact of COVID-19 on traffic behavior and accidents.
 
+![alt text](https://github.com/yasmina-99/Exploratory_data_analysis/blob/branch/scatter_map.png)
 
 # Acknowledgements
 
