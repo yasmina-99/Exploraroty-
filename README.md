@@ -10,6 +10,8 @@ Currently, the dataset includes approximately *2.8 million accident records*. Th
 
 ![alt text](https://github.com/yasmina-99/Exploratory_data_analysis/blob/branch/scatter_map.png)
 
+![alt text](https://github.com/yasmina-99/Exploratory_data_analysis/blob/branch/kdeplot_weather_sev.png)
+
 # Acknowledgements
 
 Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
